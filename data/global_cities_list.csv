@@ -1,0 +1,419 @@
+city,country,wiki_article
+London,United Kingdom,https://en.wikipedia.org/wiki/London
+New York,United States,https://en.wikipedia.org/wiki/New_York_City
+Hong Kong,Hong Kong,https://en.wikipedia.org/wiki/Hong_Kong
+Beijing,China,https://en.wikipedia.org/wiki/Beijing
+Singapore,Singapore,https://en.wikipedia.org/wiki/Singapore
+Shanghai,China,https://en.wikipedia.org/wiki/Shanghai
+Paris,France,https://en.wikipedia.org/wiki/Paris
+Dubai,United Arab Emirates,https://en.wikipedia.org/wiki/Dubai
+Tokyo,Japan,https://en.wikipedia.org/wiki/Tokyo
+Sydney,Australia,https://en.wikipedia.org/wiki/Sydney
+Amsterdam,Netherlands,https://en.wikipedia.org/wiki/Amsterdam
+Bangkok,Thailand,https://en.wikipedia.org/wiki/Bangkok
+Chicago,United States,https://en.wikipedia.org/wiki/Chicago
+Frankfurt,Germany,https://en.wikipedia.org/wiki/Frankfurt
+Guangzhou,China,https://en.wikipedia.org/wiki/Guangzhou
+Istanbul,Turkey,https://en.wikipedia.org/wiki/Istanbul
+Jakarta,Indonesia,https://en.wikipedia.org/wiki/Jakarta
+Kuala Lumpur,Malaysia,https://en.wikipedia.org/wiki/Kuala_Lumpur
+Los Angeles,United States,https://en.wikipedia.org/wiki/Los_Angeles
+Madrid,Spain,https://en.wikipedia.org/wiki/Madrid
+Mexico City,Mexico,https://en.wikipedia.org/wiki/Mexico_City
+Milan,Italy,https://en.wikipedia.org/wiki/Milan
+Mumbai,India,https://en.wikipedia.org/wiki/Mumbai
+Sao Paulo,Brazil,https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+Seoul,South Korea,https://en.wikipedia.org/wiki/Seoul
+Toronto,Canada,https://en.wikipedia.org/wiki/Toronto
+Warsaw,Poland,https://en.wikipedia.org/wiki/Warsaw
+Berlin,Germany,https://en.wikipedia.org/wiki/Berlin
+Boston,United States,https://en.wikipedia.org/wiki/Boston
+Brussels,Belgium,https://en.wikipedia.org/wiki/Brussels
+Buenos Aires,Argentina,https://en.wikipedia.org/wiki/Buenos_Aires
+Dublin,Republic of Ireland,https://en.wikipedia.org/wiki/Dublin
+Dusseldorf,Germany,https://en.wikipedia.org/wiki/D%C3%BCsseldorf
+Houston,United States,https://en.wikipedia.org/wiki/Houston
+Johannesburg,South Africa,https://en.wikipedia.org/wiki/Johannesburg
+Lisbon,Portugal,https://en.wikipedia.org/wiki/Lisbon
+Luxembourg City,Luxembourg,https://en.wikipedia.org/wiki/Luxembourg_City
+Melbourne,Australia,https://en.wikipedia.org/wiki/Melbourne
+Munich,Germany,https://en.wikipedia.org/wiki/Munich
+New Delhi,India,https://en.wikipedia.org/wiki/New_Delhi
+Riyadh,Saudi Arabia,https://en.wikipedia.org/wiki/Riyadh
+San Francisco,United States,https://en.wikipedia.org/wiki/San_Francisco
+Santiago,Chile,https://en.wikipedia.org/wiki/Santiago
+Shenzhen,China,https://en.wikipedia.org/wiki/Shenzhen
+Stockholm,Sweden,https://en.wikipedia.org/wiki/Stockholm
+Taipei,Taiwan,https://en.wikipedia.org/wiki/Taipei
+Vienna,Austria,https://en.wikipedia.org/wiki/Vienna
+"Washington, D.C.",United States,"https://en.wikipedia.org/wiki/Washington,_D.C."
+Zurich,Switzerland,https://en.wikipedia.org/wiki/Z%C3%BCrich
+Athens,Greece,https://en.wikipedia.org/wiki/Athens
+Atlanta,United States,https://en.wikipedia.org/wiki/Atlanta
+Auckland,New Zealand,https://en.wikipedia.org/wiki/Auckland
+Barcelona,Spain,https://en.wikipedia.org/wiki/Barcelona
+Bengaluru,India,https://en.wikipedia.org/wiki/Bengaluru
+Bogota,Colombia,https://en.wikipedia.org/wiki/Bogot%C3%A1
+Bucharest,Romania,https://en.wikipedia.org/wiki/Bucharest
+Budapest,Hungary,https://en.wikipedia.org/wiki/Budapest
+Chengdu,China,https://en.wikipedia.org/wiki/Chengdu
+Dallas,United States,https://en.wikipedia.org/wiki/Dallas
+Doha,Qatar,https://en.wikipedia.org/wiki/Doha
+Hamburg,Germany,https://en.wikipedia.org/wiki/Hamburg
+Hangzhou,China,https://en.wikipedia.org/wiki/Hangzhou
+Ho Chi Minh City,Vietnam,https://en.wikipedia.org/wiki/Ho_Chi_Minh_City
+Lima,Peru,https://en.wikipedia.org/wiki/Lima
+Miami,United States,https://en.wikipedia.org/wiki/Miami
+Montreal,Canada,https://en.wikipedia.org/wiki/Montreal
+Prague,Czech Republic,https://en.wikipedia.org/wiki/Prague
+Rome,Italy,https://en.wikipedia.org/wiki/Rome
+Tianjin,China,https://en.wikipedia.org/wiki/Tianjin
+Abu Dhabi,United Arab Emirates,https://en.wikipedia.org/wiki/Abu_Dhabi
+Brisbane,Australia,https://en.wikipedia.org/wiki/Brisbane
+Cairo,Egypt,https://en.wikipedia.org/wiki/Cairo
+Calgary,Canada,https://en.wikipedia.org/wiki/Calgary
+Chongqing,China,https://en.wikipedia.org/wiki/Chongqing
+Copenhagen,Denmark,https://en.wikipedia.org/wiki/Copenhagen
+Dalian,China,https://en.wikipedia.org/wiki/Dalian
+Geneva,Switzerland,https://en.wikipedia.org/wiki/Geneva
+Hanoi,Vietnam,https://en.wikipedia.org/wiki/Hanoi
+Jinan,China,https://en.wikipedia.org/wiki/Jinan
+Kyiv,Ukraine,https://en.wikipedia.org/wiki/Kyiv
+Manama,Bahrain,https://en.wikipedia.org/wiki/Manama
+Manila,Philippines,https://en.wikipedia.org/wiki/Manila
+Nairobi,Kenya,https://en.wikipedia.org/wiki/Nairobi
+Nanjing,China,https://en.wikipedia.org/wiki/Nanjing
+Oslo,Norway,https://en.wikipedia.org/wiki/Oslo
+Perth,Australia,https://en.wikipedia.org/wiki/Perth
+Shenyang,China,https://en.wikipedia.org/wiki/Shenyang
+Suzhou,China,https://en.wikipedia.org/wiki/Suzhou
+Tel Aviv ,Israel,https://en.wikipedia.org/wiki/Tel_Aviv
+Wuhan,China,https://en.wikipedia.org/wiki/Wuhan
+Xiamen,China,https://en.wikipedia.org/wiki/Xiamen
+Zhengzhou,China,https://en.wikipedia.org/wiki/Zhengzhou
+Beirut,Lebanon,https://en.wikipedia.org/wiki/Beirut
+Belgrade,Serbia,https://en.wikipedia.org/wiki/Belgrade
+Bratislava,Slovakia,https://en.wikipedia.org/wiki/Bratislava
+Caracas,Venezuela,https://en.wikipedia.org/wiki/Caracas
+Casablanca,Morocco,https://en.wikipedia.org/wiki/Casablanca
+Changsha,China,https://en.wikipedia.org/wiki/Changsha
+Chennai,India,https://en.wikipedia.org/wiki/Chennai
+Denver,United States,https://en.wikipedia.org/wiki/Denver
+Hefei,China,https://en.wikipedia.org/wiki/Hefei
+Helsinki,Finland,https://en.wikipedia.org/wiki/Helsinki
+Karachi,Pakistan,https://en.wikipedia.org/wiki/Karachi
+Kunming,China,https://en.wikipedia.org/wiki/Kunming
+Lagos,Nigeria,https://en.wikipedia.org/wiki/Lagos
+Lyon,France,https://en.wikipedia.org/wiki/Lyon
+Manchester,United Kingdom,https://en.wikipedia.org/wiki/Manchester
+Montevideo,Uruguay,https://en.wikipedia.org/wiki/Montevideo
+Nicosia,Cyprus,https://en.wikipedia.org/wiki/Nicosia
+Panama City,Panama,https://en.wikipedia.org/wiki/Panama_City
+Philadelphia,United States,https://en.wikipedia.org/wiki/Philadelphia
+Port Louis,Mauritius,https://en.wikipedia.org/wiki/Port_Louis
+Qingdao,China,https://en.wikipedia.org/wiki/Qingdao
+Rio de Janeiro,Brazil,https://en.wikipedia.org/wiki/Rio_de_Janeiro
+Seattle,United States,https://en.wikipedia.org/wiki/Seattle
+Sofia,Bulgaria,https://en.wikipedia.org/wiki/Sofia
+Stuttgart,Germany,https://en.wikipedia.org/wiki/Stuttgart
+Vancouver,Canada,https://en.wikipedia.org/wiki/Vancouver
+Xi'an,China,https://en.wikipedia.org/wiki/Xi%27an
+Zagreb,Croatia,https://en.wikipedia.org/wiki/Zagreb
+Adelaide,Australia,https://en.wikipedia.org/wiki/Adelaide
+Almaty,Kazakhstan,https://en.wikipedia.org/wiki/Almaty
+Amman,Jordan,https://en.wikipedia.org/wiki/Amman
+Antwerp,Belgium,https://en.wikipedia.org/wiki/Antwerp
+Austin,United States,"https://en.wikipedia.org/wiki/Austin,_Texas"
+Cape Town,South Africa,https://en.wikipedia.org/wiki/Cape_Town
+Colombo,Sri Lanka,https://en.wikipedia.org/wiki/Colombo
+Dhaka,Bangladesh,https://en.wikipedia.org/wiki/Dhaka
+Fuzhou,China,https://en.wikipedia.org/wiki/Fuzhou
+Guatemala City,Guatemala,https://en.wikipedia.org/wiki/Guatemala_City
+Hyderabad,India,https://en.wikipedia.org/wiki/Hyderabad
+Kuwait City,Kuwait,https://en.wikipedia.org/wiki/Kuwait_City
+Lahore,Pakistan,https://en.wikipedia.org/wiki/Lahore
+Minneapolis,United States,https://en.wikipedia.org/wiki/Minneapolis
+Porto,Portugal,https://en.wikipedia.org/wiki/Porto
+Rotterdam,Netherlands,https://en.wikipedia.org/wiki/Rotterdam
+San Diego,United States,https://en.wikipedia.org/wiki/San_Diego
+Santo Domingo,Dominican Republic,https://en.wikipedia.org/wiki/Santo_Domingo
+Taiyuan,China,https://en.wikipedia.org/wiki/Taiyuan
+Tunis,Tunisia,https://en.wikipedia.org/wiki/Tunis
+Ahmedabad,India,https://en.wikipedia.org/wiki/Ahmedabad
+Birmingham,United Kingdom,https://en.wikipedia.org/wiki/Birmingham
+Bologna,Italy,https://en.wikipedia.org/wiki/Bologna
+Bristol,United Kingdom,https://en.wikipedia.org/wiki/Bristol
+Detroit,United States,https://en.wikipedia.org/wiki/Detroit
+Haikou,China,https://en.wikipedia.org/wiki/Haikou
+Harbin,China,https://en.wikipedia.org/wiki/Harbin
+Islamabad,Pakistan,https://en.wikipedia.org/wiki/Islamabad
+Kampala,Uganda,https://en.wikipedia.org/wiki/Kampala
+Monterrey,Mexico,https://en.wikipedia.org/wiki/Monterrey
+Muscat,Oman,https://en.wikipedia.org/wiki/Muscat
+Nashville,United States,"https://en.wikipedia.org/wiki/Nashville,_Tennessee"
+Ningbo,China,https://en.wikipedia.org/wiki/Ningbo
+Osaka,Japan,https://en.wikipedia.org/wiki/Osaka
+Phnom Penh,Cambodia,https://en.wikipedia.org/wiki/Phnom_Penh
+Pune,India,https://en.wikipedia.org/wiki/Pune
+Quito,Ecuador,https://en.wikipedia.org/wiki/Quito
+Riga,Latvia,https://en.wikipedia.org/wiki/Riga
+San Jose,Costa Rica,"https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica"
+San Jose,United States,"https://en.wikipedia.org/wiki/San_Jose,_California"
+San Salvador,El Salvador,https://en.wikipedia.org/wiki/San_Salvador
+Tampa,United States,"https://en.wikipedia.org/wiki/Tampa,_Florida"
+Tbilisi,Georgia (country),https://en.wikipedia.org/wiki/Tbilisi
+Tegucigalpa,Honduras,https://en.wikipedia.org/wiki/Tegucigalpa
+Tirana,Albania,https://en.wikipedia.org/wiki/Tirana
+Accra,Ghana,https://en.wikipedia.org/wiki/Accra
+Baku,Azerbaijan,https://en.wikipedia.org/wiki/Baku
+Baltimore,United States,https://en.wikipedia.org/wiki/Baltimore
+Bilbao,Spain,https://en.wikipedia.org/wiki/Bilbao
+Cali,Colombia,https://en.wikipedia.org/wiki/Cali
+Changchun,China,https://en.wikipedia.org/wiki/Changchun
+Charlotte,United States,"https://en.wikipedia.org/wiki/Charlotte,_North_Carolina"
+Cleveland,United States,https://en.wikipedia.org/wiki/Cleveland
+Dar es Salaam,Tanzania,https://en.wikipedia.org/wiki/Dar_es_Salaam
+Edinburgh,United Kingdom,https://en.wikipedia.org/wiki/Edinburgh
+Jeddah,Saudi Arabia,https://en.wikipedia.org/wiki/Jeddah
+Katowice,Poland,https://en.wikipedia.org/wiki/Katowice
+Labuan,Malaysia,https://en.wikipedia.org/wiki/Labuan
+Ljubljana,Slovenia,https://en.wikipedia.org/wiki/Ljubljana
+Managua,Nicaragua,https://en.wikipedia.org/wiki/Managua
+Marseille,France,https://en.wikipedia.org/wiki/Marseille
+Nanchang,China,https://en.wikipedia.org/wiki/Nanchang
+Penang,Malaysia,https://en.wikipedia.org/wiki/Penang
+Pittsburgh,United States,https://en.wikipedia.org/wiki/Pittsburgh
+Poznan,Poland,https://en.wikipedia.org/wiki/Pozna%C5%84
+St. Louis,United States,https://en.wikipedia.org/wiki/St._Louis
+Surabaya,Indonesia,https://en.wikipedia.org/wiki/Surabaya
+Turin,Italy,https://en.wikipedia.org/wiki/Turin
+Valencia,Spain,https://en.wikipedia.org/wiki/Valencia
+Wellington,New Zealand,https://en.wikipedia.org/wiki/Wellington
+Algiers,Algeria,https://en.wikipedia.org/wiki/Algiers
+Belfast,United Kingdom,https://en.wikipedia.org/wiki/Belfast
+Cincinnati,United States,https://en.wikipedia.org/wiki/Cincinnati
+Dakar,Senegal,https://en.wikipedia.org/wiki/Dakar
+Glasgow,United Kingdom,https://en.wikipedia.org/wiki/Glasgow
+Gothenburg,Sweden,https://en.wikipedia.org/wiki/Gothenburg
+Guadalajara,Mexico,https://en.wikipedia.org/wiki/Guadalajara
+Guayaquil,Ecuador,https://en.wikipedia.org/wiki/Guayaquil
+Harare,Zimbabwe,https://en.wikipedia.org/wiki/Harare
+Hartford,United States,"https://en.wikipedia.org/wiki/Hartford,_Connecticut"
+Indianapolis,United States,https://en.wikipedia.org/wiki/Indianapolis
+Izmir,Turkey,https://en.wikipedia.org/wiki/%C4%B0zmir
+Kansas City,United States,"https://en.wikipedia.org/wiki/Kansas_City,_Missouri"
+La Paz,Bolivia,https://en.wikipedia.org/wiki/La_Paz
+Leeds,United Kingdom,https://en.wikipedia.org/wiki/Leeds
+Limassol,Cyprus,https://en.wikipedia.org/wiki/Limassol
+Lusaka,Zambia,https://en.wikipedia.org/wiki/Lusaka
+Macau,Macau,https://en.wikipedia.org/wiki/Macau
+Maputo,Mozambique,https://en.wikipedia.org/wiki/Maputo
+Phoenix,United States,"https://en.wikipedia.org/wiki/Phoenix,_Arizona"
+Queretaro,Mexico,https://en.wikipedia.org/wiki/Quer%C3%A9taro_City
+Raleigh,United States,"https://en.wikipedia.org/wiki/Raleigh,_North_Carolina"
+Shijiazhuang,China,https://en.wikipedia.org/wiki/Shijiazhuang
+Skopje,North Macedonia,https://en.wikipedia.org/wiki/Skopje
+Vilnius,Lithuania,https://en.wikipedia.org/wiki/Vilnius
+Zhuhai,China,https://en.wikipedia.org/wiki/Zhuhai
+Aarhus,Denmark,https://en.wikipedia.org/wiki/Aarhus
+Aberdeen,United Kingdom,https://en.wikipedia.org/wiki/Aberdeen
+Abidjan,Ivory Coast,https://en.wikipedia.org/wiki/Abidjan
+Abuja,Nigeria,https://en.wikipedia.org/wiki/Abuja
+Alexandria,Egypt,https://en.wikipedia.org/wiki/Alexandria
+Ankara,Turkey,https://en.wikipedia.org/wiki/Ankara
+Astana,Kazakhstan,https://en.wikipedia.org/wiki/Astana
+Asuncion,Paraguay,https://en.wikipedia.org/wiki/Asunci%C3%B3n
+Baoding,China,https://en.wikipedia.org/wiki/Baoding
+Barranquilla,Colombia,https://en.wikipedia.org/wiki/Barranquilla
+Basel,Switzerland,https://en.wikipedia.org/wiki/Basel
+Belo Horizonte,Brazil,https://en.wikipedia.org/wiki/Belo_Horizonte
+Bergen,Norway,https://en.wikipedia.org/wiki/Bergen
+Bern,Switzerland,https://en.wikipedia.org/wiki/Bern
+Birmingham,United States,"https://en.wikipedia.org/wiki/Birmingham,_Alabama"
+Blantyre,Malawi,https://en.wikipedia.org/wiki/Blantyre
+Bordeaux,France,https://en.wikipedia.org/wiki/Bordeaux
+Brasilia,Brazil,https://en.wikipedia.org/wiki/Bras%C3%ADlia
+Campinas,Brazil,https://en.wikipedia.org/wiki/Campinas
+Canberra,Australia,https://en.wikipedia.org/wiki/Canberra
+Cebu City,Philippines,https://en.wikipedia.org/wiki/Cebu_City
+Christchurch,New Zealand,https://en.wikipedia.org/wiki/Christchurch
+Ciudad Juarez,Mexico,https://en.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez
+Cologne,Germany,https://en.wikipedia.org/wiki/Cologne
+Columbus,United States,"https://en.wikipedia.org/wiki/Columbus,_Ohio"
+Cordoba,Argentina,"https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Argentina"
+Curitiba,Brazil,https://en.wikipedia.org/wiki/Curitiba
+Des Moines,United States,"https://en.wikipedia.org/wiki/Des_Moines,_Iowa"
+Dongguan,China,https://en.wikipedia.org/wiki/Dongguan
+Douala,Cameroon,https://en.wikipedia.org/wiki/Douala
+Dresden,Germany,https://en.wikipedia.org/wiki/Dresden
+Durban,South Africa,https://en.wikipedia.org/wiki/Durban
+Edmonton,Canada,https://en.wikipedia.org/wiki/Edmonton
+Florence,Italy,https://en.wikipedia.org/wiki/Florence
+Foshan,China,https://en.wikipedia.org/wiki/Foshan
+Gaborone,Botswana,https://en.wikipedia.org/wiki/Gaborone
+Genoa,Italy,https://en.wikipedia.org/wiki/Genoa
+George Town,Cayman Islands,"https://en.wikipedia.org/wiki/George_Town,_Cayman_Islands"
+Guiyang,China,https://en.wikipedia.org/wiki/Guiyang
+Halifax,Canada,"https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia"
+Hamilton,Bermuda,"https://en.wikipedia.org/wiki/Hamilton,_Bermuda"
+Hanover,Germany,https://en.wikipedia.org/wiki/Hanover
+Hohhot,China,https://en.wikipedia.org/wiki/Hohhot
+Jacksonville,United States,"https://en.wikipedia.org/wiki/Jacksonville,_Florida"
+Johor Bahru,Malaysia,https://en.wikipedia.org/wiki/Johor_Bahru
+Kaohsiung,Taiwan,https://en.wikipedia.org/wiki/Kaohsiung
+Kolkata,India,https://en.wikipedia.org/wiki/Kolkata
+Krakow,Poland,https://en.wikipedia.org/wiki/Krak%C3%B3w
+Lanzhou,China,https://en.wikipedia.org/wiki/Lanzhou
+Las Vegas,United States,https://en.wikipedia.org/wiki/Las_Vegas
+Lausanne,Switzerland,https://en.wikipedia.org/wiki/Lausanne
+Leipzig,Germany,https://en.wikipedia.org/wiki/Leipzig
+Libreville,Gabon,https://en.wikipedia.org/wiki/Libreville
+Liege,Belgium,https://en.wikipedia.org/wiki/Li%C3%A8ge
+Lille,France,https://en.wikipedia.org/wiki/Lille
+Linz,Austria,https://en.wikipedia.org/wiki/Linz
+Liverpool,United Kingdom,https://en.wikipedia.org/wiki/Liverpool
+Łodz,Poland,https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA
+Louisville,United States,"https://en.wikipedia.org/wiki/Louisville,_Kentucky"
+Luanda,Angola,https://en.wikipedia.org/wiki/Luanda
+Malaga,Spain,https://en.wikipedia.org/wiki/M%C3%A1laga
+Malmo,Sweden,https://en.wikipedia.org/wiki/Malm%C3%B6
+Mannheim,Germany,https://en.wikipedia.org/wiki/Mannheim
+Medellin,Colombia,https://en.wikipedia.org/wiki/Medell%C3%ADn
+Memphis,United States,"https://en.wikipedia.org/wiki/Memphis,_Tennessee"
+Milwaukee,United States,https://en.wikipedia.org/wiki/Milwaukee
+Moscow,Russia,https://en.wikipedia.org/wiki/Moscow
+Nagoya,Japan,https://en.wikipedia.org/wiki/Nagoya
+Nanning,China,https://en.wikipedia.org/wiki/Nanning
+Nantes,France,https://en.wikipedia.org/wiki/Nantes
+Naples,Italy,https://en.wikipedia.org/wiki/Naples
+Nassau,The Bahamas,"https://en.wikipedia.org/wiki/Nassau,_Bahamas"
+Newcastle upon Tyne,United Kingdom,https://en.wikipedia.org/wiki/Newcastle_upon_Tyne
+Nice,France,https://en.wikipedia.org/wiki/Nice
+Nottingham,United Kingdom,https://en.wikipedia.org/wiki/Nottingham
+Nuremberg,Germany,https://en.wikipedia.org/wiki/Nuremberg
+Oklahoma City,United States,https://en.wikipedia.org/wiki/Oklahoma_City
+Orlando,United States,"https://en.wikipedia.org/wiki/Orlando,_Florida"
+Ottawa,Canada,https://en.wikipedia.org/wiki/Ottawa
+Palo Alto,United States,"https://en.wikipedia.org/wiki/Palo_Alto,_California"
+Podgorica,Montenegro,https://en.wikipedia.org/wiki/Podgorica
+Port of Spain,Trinidad and Tobago,https://en.wikipedia.org/wiki/Port_of_Spain
+Portland,United States,"https://en.wikipedia.org/wiki/Portland,_Oregon"
+Porto Alegre,Brazil,https://en.wikipedia.org/wiki/Porto_Alegre
+Puebla,Mexico,https://en.wikipedia.org/wiki/Puebla_(city)
+Recife,Brazil,https://en.wikipedia.org/wiki/Recife
+Richmond,United States,"https://en.wikipedia.org/wiki/Richmond,_Virginia"
+Sacramento,United States,"https://en.wikipedia.org/wiki/Sacramento,_California"
+Salt Lake City,United States,https://en.wikipedia.org/wiki/Salt_Lake_City
+Salvador,Brazil,"https://en.wikipedia.org/wiki/Salvador,_Bahia"
+San Antonio,United States,https://en.wikipedia.org/wiki/San_Antonio
+San Juan,Puerto Rico,"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico"
+San Luis Potosi City,Mexico,https://en.wikipedia.org/wiki/San_Luis_Potos%C3%AD_City
+San Pedro Sula,Honduras,https://en.wikipedia.org/wiki/San_Pedro_Sula
+Santa Cruz de la Sierra,Bolivia,https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra
+Sarajevo,Bosnia and Herzegovina,https://en.wikipedia.org/wiki/Sarajevo
+Seville,Spain,https://en.wikipedia.org/wiki/Seville
+Southampton,United Kingdom,https://en.wikipedia.org/wiki/Southampton
+Strasbourg,France,https://en.wikipedia.org/wiki/Strasbourg
+Taichung,Taiwan,https://en.wikipedia.org/wiki/Taichung
+Tallinn,Estonia,https://en.wikipedia.org/wiki/Tallinn
+Tangshan,China,https://en.wikipedia.org/wiki/Tangshan
+Tashkent,Uzbekistan,https://en.wikipedia.org/wiki/Tashkent
+The Hague,Netherlands,https://en.wikipedia.org/wiki/The_Hague
+Tijuana,Mexico,https://en.wikipedia.org/wiki/Tijuana
+Toulouse,France,https://en.wikipedia.org/wiki/Toulouse
+Tulsa,United States,"https://en.wikipedia.org/wiki/Tulsa,_Oklahoma"
+Ulaanbaatar,Mongolia,https://en.wikipedia.org/wiki/Ulaanbaatar
+Urumqi,China,https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi
+Utrecht,Netherlands,https://en.wikipedia.org/wiki/Utrecht
+Vientiane,Laos,https://en.wikipedia.org/wiki/Vientiane
+Wenzhou,China,https://en.wikipedia.org/wiki/Wenzhou
+Windhoek,Namibia,https://en.wikipedia.org/wiki/Windhoek
+Winnipeg,Canada,https://en.wikipedia.org/wiki/Winnipeg
+Wrocław,Poland,https://en.wikipedia.org/wiki/Wroc%C5%82aw
+Wuxi,China,https://en.wikipedia.org/wiki/Wuxi
+Yangon,Myanmar,https://en.wikipedia.org/wiki/Yangon
+Yerevan,Armenia,https://en.wikipedia.org/wiki/Yerevan
+Yinchuan,China,https://en.wikipedia.org/wiki/Yinchuan
+Aguascalientes City,Mexico,https://en.wikipedia.org/wiki/Aguascalientes_City
+Bandar Seri Begawan,Brunei,https://en.wikipedia.org/wiki/Bandar_Seri_Begawan
+Bishkek,Kyrgyzstan,https://en.wikipedia.org/wiki/Bishkek
+Bremen,Germany,https://en.wikipedia.org/wiki/Bremen
+Bursa,Turkey,https://en.wikipedia.org/wiki/Bursa
+Dammam,Saudi Arabia,https://en.wikipedia.org/wiki/Dammam
+Essen,Germany,https://en.wikipedia.org/wiki/Essen
+Fukuoka,Japan,https://en.wikipedia.org/wiki/Fukuoka
+Grenoble,France,https://en.wikipedia.org/wiki/Grenoble
+Kabul,Afghanistan,https://en.wikipedia.org/wiki/Kabul
+Kathmandu,Nepal,https://en.wikipedia.org/wiki/Kathmandu
+Kigali,Rwanda,https://en.wikipedia.org/wiki/Kigali
+Kingston,Jamaica,"https://en.wikipedia.org/wiki/Kingston,_Jamaica"
+Kochi,India,https://en.wikipedia.org/wiki/Kochi
+Leon,Mexico,"https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+Lilongwe,Malawi,https://en.wikipedia.org/wiki/Lilongwe
+Merida,Mexico,"https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+Mexicali,Mexico,https://en.wikipedia.org/wiki/Mexicali
+Pretoria,South Africa,https://en.wikipedia.org/wiki/Pretoria
+Quebec City,Canada,https://en.wikipedia.org/wiki/Quebec_City
+Reykjavik,Iceland,https://en.wikipedia.org/wiki/Reykjav%C3%ADk
+Sanaa,Yemen,https://en.wikipedia.org/wiki/Sanaa
+Valencia,Venezuela,"https://en.wikipedia.org/wiki/Valencia,_Carabobo"
+Baghdad,Iraq,https://en.wikipedia.org/wiki/Baghdad
+Brazzaville,Republic of the Congo,https://en.wikipedia.org/wiki/Brazzaville
+Buffalo,United States,"https://en.wikipedia.org/wiki/Buffalo,_New_York"
+Busan,South Korea,https://en.wikipedia.org/wiki/Busan
+Cardiff,United Kingdom,https://en.wikipedia.org/wiki/Cardiff
+Chihuahua,Mexico,https://en.wikipedia.org/wiki/Chihuahua_City
+Chisinau,Moldova,https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u
+Dortmund,Germany,https://en.wikipedia.org/wiki/Dortmund
+Dushanbe,Tajikistan,https://en.wikipedia.org/wiki/Dushanbe
+Goiania,Brazil,https://en.wikipedia.org/wiki/Goi%C3%A2nia
+Graz,Austria,https://en.wikipedia.org/wiki/Graz
+Haifa,Israel,https://en.wikipedia.org/wiki/Haifa
+Harrisburg,United States,"https://en.wikipedia.org/wiki/Harrisburg,_Pennsylvania"
+Hobart,Australia,https://en.wikipedia.org/wiki/Hobart
+Honolulu,United States,https://en.wikipedia.org/wiki/Honolulu
+Hsinchu,Taiwan,https://en.wikipedia.org/wiki/Hsinchu
+Jerusalem,Israel,https://en.wikipedia.org/wiki/Jerusalem
+Kazan,Russia,https://en.wikipedia.org/wiki/Kazan
+Kinshasa,Democratic Republic of the Congo,https://en.wikipedia.org/wiki/Kinshasa
+Kobe,Japan,https://en.wikipedia.org/wiki/Kobe
+Kyoto,Japan,https://en.wikipedia.org/wiki/Kyoto
+Lome,Togo,https://en.wikipedia.org/wiki/Lom%C3%A9
+Malacca,Malaysia,https://en.wikipedia.org/wiki/Malacca
+Minsk,Belarus,https://en.wikipedia.org/wiki/Minsk
+Montpellier,France,https://en.wikipedia.org/wiki/Montpellier
+New Orleans,United States,https://en.wikipedia.org/wiki/New_Orleans
+Novosibirsk,Russia,https://en.wikipedia.org/wiki/Novosibirsk
+Omaha,United States,"https://en.wikipedia.org/wiki/Omaha,_Nebraska"
+Palermo,Italy,https://en.wikipedia.org/wiki/Palermo
+Port Elizabeth,South Africa,https://en.wikipedia.org/wiki/Port_Elizabeth
+Port Harcourt,Nigeria,https://en.wikipedia.org/wiki/Port_Harcourt
+Port Moresby,Papua New Guinea,https://en.wikipedia.org/wiki/Port_Moresby
+Rochester,United States,"https://en.wikipedia.org/wiki/Rochester,_New_York"
+Rosario,Argentina,"https://en.wikipedia.org/wiki/Rosario,_Santa_Fe"
+Saint Petersburg,Russia,https://en.wikipedia.org/wiki/Saint_Petersburg
+Sapporo,Japan,https://en.wikipedia.org/wiki/Sapporo
+Saskatoon,Canada,https://en.wikipedia.org/wiki/Saskatoon
+Sendai,Japan,https://en.wikipedia.org/wiki/Sendai
+Sheffield,United Kingdom,https://en.wikipedia.org/wiki/Sheffield
+Suva,Fiji,https://en.wikipedia.org/wiki/Suva
+Tainan,Taiwan,https://en.wikipedia.org/wiki/Tainan
+Trieste,Italy,https://en.wikipedia.org/wiki/Trieste
+Valparaiso,Chile,https://en.wikipedia.org/wiki/Valpara%C3%ADso
+Yokohama,Japan,https://en.wikipedia.org/wiki/Yokohama
+Antananarivo,Madagascar,https://en.wikipedia.org/wiki/Antananarivo
+Leicester,United Kingdom,https://en.wikipedia.org/wiki/Leicester
+Madison,United States,"https://en.wikipedia.org/wiki/Madison,_Wisconsin"
+Nantong,China,https://en.wikipedia.org/wiki/Nantong
+Weifang,China,https://en.wikipedia.org/wiki/Weifang
+Xining,China,https://en.wikipedia.org/wiki/Xining
+Aligarh,India,https://en.wikipedia.org/wiki/Aligarh
+Allahabad,India,https://en.wikipedia.org/wiki/Allahabad
+Nagpur,India,https://en.wikipedia.org/wiki/Nagpur
+Natal,Brazil,"https://en.wikipedia.org/wiki/Natal,_Rio_Grande_do_Norte"
+Nashik,India,https://en.wikipedia.org/wiki/Nashik
+Providence,United States,"https://en.wikipedia.org/wiki/Providence,_Rhode_Island"
+Greensboro,United States,"https://en.wikipedia.org/wiki/Greensboro,_North_Carolina"
+Ludwigshafen,Germany,https://en.wikipedia.org/wiki/Ludwigshafen
+Norwich,United Kingdom,https://en.wikipedia.org/wiki/Norwich
+Tehran,Iran,https://en.wikipedia.org/wiki/Tehran
